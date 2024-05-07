@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+p{
+    justify-content: center;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.container {
+    display: flex;
+}
+
+.column {
+    flex: 1;
+}
+
+.rosita {
+    background-repeat: no-repeat;
+    padding: left 80px;
+    background-color: #FB7BB5;
+}
+.morita {
+    background-repeat: no-repeat;
+    padding: left 80px;
+    background-color: #96F7F7;
+}
+
+.ceresita {
+    background-repeat: no-repeat;
+    padding: left 80px;
+    background-color:#C983FD;
+}
+.naranja {
+    background-image: url(img/naranja.png);
+    background-repeat: no-repeat;
+    padding: left 80px;
+    background-color: #FAAE47;
+}
+.box {
+    border: 2px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    height: 300px;
+}
+@font-face {
+    font-family: 'rositaFont';
+    src: url(font/rositaFont.ttf) format(truetype); 
+}
+
+h1{
+    height: 100px;
+    font-family: 'rositaFont';
+    font-size: 100px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
